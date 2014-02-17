@@ -1,3 +1,5 @@
+For an explanation of how ARIMA works and how it was created, please visit my website here: http://www.aaronschlegel.com/arima-forecasting-an-introduction-and-implementation-with-excel/. It also includes screenshots of the how to use section.
+
 How to Use
 
 Before using the sheet, you must download R and RExcel from the <a href="http://rcom.univie.ac.at">Statconn website.</a> If you already have R installed, you can just download RExcel. If you don't have R installed, you can download RAndFriends which contains the latest version of R and RExcel. Please Note, RExcel only works on 32bit Excel for its non-commercial license. If you have 64bit Excel installed, you will have to get a commercial license from Statconn.
@@ -73,3 +75,5 @@ If the diagnostics result doesn't look good, you might try adding more data or s
 You can easily clear the generated results by clicking the 'Clear Forecasted Values' buttons.
 
 And that's it! Currently, the date column doesn't do anything other than for your reference, but it's not necessary for the tool. If I find time, I'll go back and add that so the displayed graph shows the correct time. You also might receive an error when running the forecast. This is usually due to the function that finds the best parameters is unable to determine the proper order. You can follow the above steps to try and arrange your data better for the function to work.
+
+Big thanks to <a href="http://www.stat.pitt.edu/stoffer/tsa3/">Professor Stoffer</a> for making his functions available.
