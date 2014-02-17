@@ -1,4 +1,4 @@
-For an explanation of how ARIMA works and how it was created, please visit my website here: http://www.aaronschlegel.com/arima-forecasting-an-introduction-and-implementation-with-excel/. It also includes screenshots of the how to use section.
+For an explanation of how ARIMA works and how it was created, please visit my website <a href="http://www.aaronschlegel.com/arima-forecasting-an-introduction-and-implementation-with-excel/">here</a>. It also includes screenshots of the how to use section.
 
 How to Use
 
